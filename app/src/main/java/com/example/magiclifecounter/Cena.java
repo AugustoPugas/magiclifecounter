@@ -6,7 +6,7 @@ import com.example.magiclifecounter.AndGraphics.AGSprite;
 public class Cena extends AGScene {
 
     AGSprite[] marcador = new AGSprite[2];
-    float x = (float) 2.8, y = (float) 2.8;
+    float x = (float) 2.9, y = (float) 2.9;
 
     @Override
     public void init() {
